@@ -249,9 +249,7 @@ executor never talk to an exchange SDK directly.
 
 ## Status
 
-Beta, connected live to Kraken; Binance support and multi-strategy
-priority ordering (running several strategies per instrument/direction
-concurrently) are the most recently active areas of work. Trade-plan
+Trade-plan
 execution, the virtual indicator system, and the collector/harvester
 pipeline are running end-to-end; the analytics/reporting web app is still
 a TODO.
